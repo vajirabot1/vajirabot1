@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vajira Rathnayaka </h1>
+<h1 align="center">Hi 👋,I'm Vajira Rathnayaka </h1>
 
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
