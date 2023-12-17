@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Thinura Pemarathana </h1>
+<h1 align="center">Hi 👋, I'm Vajira Rathnayaka </h1>
 
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=darkalphaxteam&label=Profile%20views&color=0e75b6&style=flat" alt="darkalphaxteam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vajirabot1&label=Profile%20views&color=0e75b6&style=flat" alt="vajirabot1" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkalphaxteam" alt="darkalphaxteam" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vajirabot1" alt="vajirabot1" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/GmThinura" target="blank"><img src="https://img.shields.io/twitter/follow/GmThinura?logo=twitter&style=for-the-badge" alt="GmThinura" /></a> </p>
 
@@ -12,24 +12,25 @@
 
 - 🔝 I'm 20 Years Old....
 
-- 👨‍💻 All of my projects are available at [https://github.com/darkalphaxteam](https://github.com/darkalphaxteam)
+- 👨‍💻 All of my projects are available at [https://github.com/vajirabot1](https://github.com/vajirabot1)
 
-- 📫 How to reach me **thinuragm@gmail.com**
+- 📫 How to reach me **vajirarathnayaka529@gmail.com**
 
 <h3 align = "left"> Support me </h3>
-<a href="https://www.buymeacoffee.com/darkalpha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/vajirabot1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
-<a href="https://whatsapp.com/channel/0029Va5EQi7CRs1lXmZYKw0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="DARKALPHAXTEAM" height="30" width="40" /></a>
+<a href="https://chat.whatsapp.com/H4AxqChgQpY7wuesV5uGl4
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="VAJIRABOT1" height="30" width="40" /></a>
 
 <a href="https://fb.com/thinu.gm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thinu_gm" height="30" width="40" /></a>
 
-<a href="https://instagram.com/thinuwa2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thinuwa2003" height="30" width="40" /></a>
+<a href="https://instagram.com/vajira2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thinuwa2003" height="30" width="40" /></a>
 
-<a href="https://m.youtube.com/c/TGMArcade_2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tgmarcade" height="30" width="40" /></a>
+<a href="https://youtube.com/@gamingewingyt6216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tgmarcade" height="30" width="40" /></a>
 
 </p>
 
