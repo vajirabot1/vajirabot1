@@ -37,7 +37,7 @@
 ---
 
 ### :unicorn: Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=vqjirabot1&repo=KNG-VAJIRA-MD4&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=vajirabot1&repo=KNG-VAJIRA-MD4&theme=radical)
 
 ---
 
