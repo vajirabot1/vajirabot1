@@ -1,7 +1,7 @@
 ### :unicorn: About Me :
 
 <p align="center">
-  <img src="https://i.ibb.co/y5V49xM/91-6909-137-213-20230712-200427.jpg" />
+  <img src="https://telegra.ph/file/09ab24679fb3a297a8905.jpg" />
 </p>
 
 - 👋 Hi, I’m Vajira
