@@ -29,7 +29,7 @@
 
 ### :unicorn: My Stats :
 <p align="center"><a href="https://github.com/vajirabot1/followers"><img title="Followers" src="https://img.shields.io/github/followers/vajirabot1?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=DGXeon&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=vajirabot1&color=green&style=flat-square&label=Profile+View"></a>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=vajirabot1&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=vajirabot1&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 <p align="center"><a href="https://github.com/vajirabot1"><img src="https://github-readme-stats.vercel.app/api?username=vajirabot1&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/vajirabot1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vajirabot1&theme=radical&layout=compact"></a></p>
@@ -37,14 +37,14 @@
 ---
 
 ### :unicorn: Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=vajirabot1&repo=KNG-VAJIRA-MD4&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=vajirabot1&repo=KING-VAJIRA-MD&theme=radical)
 
 ---
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=DGXeon)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=vajirabot1)
 
 </details>
 
